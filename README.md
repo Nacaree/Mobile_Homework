@@ -2,13 +2,15 @@
 ```markdown
 # Mobile Application Homework
 
-This repository contains my completed homework assignments for a mobile application development course.
+This repository contains my completed homework assignments for a mobile application
+development course.
 
 ## How to Use
 
 1.  **Download the ZIP file:** Click the "Code" button (usually green) and select "Download ZIP".
 2.  **Extract the ZIP file:** Unzip the downloaded file to a location of your choice.
-3.  **Open in an IDE:** Open the project in your preferred Integrated Development Environment (IDE) such as Android Studio, Xcode, or Visual Studio Code with the appropriate mobile development extensions.
+3.  **Open in an IDE:** Open the project in your preferred Integrated Development Environment (IDE)
+    such as Android Studio, Xcode, or Visual Studio Code with the appropriate mobile development extensions.
 4.  **Run the application:** Build and run the application on an emulator or a physical device.
 
 ## Missing Homework
