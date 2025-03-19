@@ -17,9 +17,8 @@ Homework assignments 3 and 5 are not included in this repository due to GitHub's
 
 You can download Homework 3 and 5 using the following link:
 
-[Download Homework 3 and 5](YOUR_DOWNLOAD_LINK_HERE)
-
-(Replace `YOUR_DOWNLOAD_LINK_HERE` with the actual download link to your files. Example: Google Drive, Dropbox, or other file sharing service link)
+Homework 03 (https://www.mediafire.com/file/f7ir01vmknaniw6/Homework3.zip/file)
+Homework 05 (https://www.mediafire.com/file/38wt315j3u7anq8/Homework05.zip/file)
 
 ## Notes
 
